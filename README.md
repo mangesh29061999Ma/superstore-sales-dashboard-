@@ -344,7 +344,7 @@ Aspiring Data Analyst | Power BI Developer | SQL | Excel | Data Visualization
 
 - LinkedIn: Add Your LinkedIn Profile Link
 - GitHub: Add Your GitHub Profile Link
-
+https://github.com/mangesh29061999Ma/superstore-sales-dashboard-/blob/main/Screenshot%202026-06-06%20145305.png
 ---
 
 ## ⭐ If you found this project useful
